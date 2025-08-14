@@ -11,4 +11,4 @@ A simple Android app built with Kotlin to track personal finances, including tra
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/PersonalFinanceTracker.git
+   git clone https://github.com/kavindyaaa/MAD-ZenBudget.git
